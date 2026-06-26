@@ -49,3 +49,14 @@ Everything in DragonBoard belongs to a Campaign
 Status
 
 Accepted
+
+
+## Decision #006
+
+DragonBoard Architecture v1.0 is frozen.
+
+Status
+
+Accepted
+
+27 June 2026 - 02:26 UTC+7
