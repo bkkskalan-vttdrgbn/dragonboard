@@ -40,3 +40,12 @@ Development is Mobile First.
 Status
 
 Accepted
+
+
+## Decision #005
+
+Everything in DragonBoard belongs to a Campaign
+
+Status
+
+Accepted
