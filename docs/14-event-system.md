@@ -6,12 +6,16 @@ TOKEN_MOVED
 
 ↓
 
-State Updated
+Update GameState
 
 ↓
 
-UI Refresh
+Save
 
 ↓
 
 Realtime
+
+↓
+
+Refresh UI
