@@ -10,6 +10,8 @@ Date
 
 27 June 2026
 
+
+
 Decision #002
 
 Physical Cards tetap digunakan.
@@ -17,6 +19,8 @@ Physical Cards tetap digunakan.
 Status
 
 Accepted
+
+
 
 Decision #003
 
