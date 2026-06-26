@@ -88,3 +88,7 @@ Any common action should take less than ten seconds.
 If there is a conflict between generic VTT design and Dragonbane gameplay,
 
 DragonBoard follows Dragonbane.
+
+### 10. One Screen Rule
+
+DragonBoard can't have more than 5 main screen
