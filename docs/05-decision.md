@@ -1,4 +1,4 @@
-Decision #001
+## Decision #001
 
 DragonBoard adalah Companion Tool, bukan pengganti Dragonbane.
 
@@ -12,7 +12,7 @@ Date
 
 
 
-Decision #002
+## Decision #002
 
 Physical Cards tetap digunakan.
 
@@ -22,11 +22,20 @@ Accepted
 
 
 
-Decision #003
+## Decision #003
 
 GM menggunakan Laptop.
 
 Player menggunakan Tablet.
+
+Status
+
+Accepted
+
+
+## Decision #004
+
+Development is Mobile First.
 
 Status
 
