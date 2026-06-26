@@ -1,8 +1,8 @@
-Player Drag Token
+UI
 
 ↓
 
-Token Module
+Module
 
 ↓
 
@@ -18,8 +18,4 @@ Realtime
 
 ↓
 
-Player UI
-
-↓
-
-GM UI
+UI
