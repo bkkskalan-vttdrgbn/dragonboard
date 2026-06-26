@@ -92,3 +92,19 @@ DragonBoard follows Dragonbane.
 ### 10. One Screen Rule
 
 DragonBoard can't have more than 5 main screen
+
+### 11. No Hidden Navigation
+
+Misalnya.
+
+Kalau GM sedang bermain.
+
+Dia tidak boleh berpindah ke halaman lain.
+
+Semua dilakukan melalui:
+
+Dialog
+Panel
+Popup
+
+Ini akan membuat permainan tetap lancar.
